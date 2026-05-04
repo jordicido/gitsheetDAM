@@ -14,3 +14,4 @@
 - Git clone: Crea una copia local de un repositorio remoto.
 - Git fetch: Descarga los cambios desde un repositorio remoto sin fusionarlos con la rama actual.
 - Git rebase: Reaplica los commits de una rama sobre otra rama.
+- Git remote: Muestra los repositorios remotos configurados.
