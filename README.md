@@ -14,3 +14,6 @@
 - Git clone: Crea una copia local de un repositorio remoto.
 - Git fetch: Descarga los cambios desde un repositorio remoto sin fusionarlos con la rama actual.
 - Git remote: Muestra los repositorios remotos configurados.
+- Git reset: Deshace los cambios en el área de preparación o en el historial de commits.
+- Git revert: Crea un nuevo commit que deshace los cambios de un commit específico.
+- Git stash: Guarda temporalmente los cambios no confirmados para poder trabajar en otra cosa sin perder esos cambios.
