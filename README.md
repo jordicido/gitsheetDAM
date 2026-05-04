@@ -19,3 +19,4 @@
 - Git revert: Crea un nuevo commit que deshace los cambios de un commit específico.
 - Git stash: Guarda temporalmente los cambios no confirmados para poder trabajar en otra cosa sin perder esos cambios.
 - Chapuza 2: Este es el segundo cambio de otra persona
+esto lo agrego javi
