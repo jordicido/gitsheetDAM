@@ -18,6 +18,6 @@
 - Git reset: Deshace los cambios en el área de preparación o en el historial de commits.
 - Git revert: Crea un nuevo commit que deshace los cambios de un commit específico.
 - Git stash: Guarda temporalmente los cambios no confirmados para poder trabajar en otra cosa sin perder esos cambios.
-- CHAPUZA1: esto es una prueba que estamos haciendo en clade de entornos de desarollo.
-- Chapuza 2: Este es el segundo cambio de otra persona
-esto lo agrego javi
+- Git reset --hard: Deshace los cambios en el área de preparación y en el historial de commits, eliminando los cambios no confirmados.
+- Git reset --soft: Deshace los cambios en el historial de commits, pero mantiene los cambios en el área de preparación.
+- Git reset --mixed: Deshace los cambios en el historial de commits y en el área de preparación, pero mantiene los cambios en el directorio de trabajo.
