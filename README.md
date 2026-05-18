@@ -7,7 +7,7 @@
 - Git log: Muestra el historial de commits en el repositorio.
 - Git branch: Muestra las ramas disponibles en el repositorio.
 - Git checkout: Cambia a una rama específica o a un commit específico.
-- Git switch: Cambia a una rama específica o a un commit específico (alternativa a git checkout).
+- Git switch: Cambia a una rama específica o a un commit específico.
 - Git merge: Combina los cambios de una rama con otra rama.
 - Git pull: Descarga los cambios desde un repositorio remoto y los fusiona con la rama actual.
 - Git push: Sube los cambios locales a un repositorio remoto.
